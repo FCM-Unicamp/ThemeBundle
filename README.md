@@ -2,9 +2,9 @@
 
 ## Synopsis
 
-> To do
+ThemeBundle is a Bundle for symfony2. The objective is to create a reusable and easy to maintain package.
 
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
+This Bundle contains all the frontend/backend files necessary to start a default template for FCM/FEnf.
 
 ## Code Example
 
