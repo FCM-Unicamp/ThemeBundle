@@ -20,6 +20,11 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Installation
 
+```
+cd your\project
+composer require fcm-unicamp/themebundle
+``` 
+
 > To do
 
 Provide code examples and explanations of how to get the project.
