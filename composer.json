@@ -21,7 +21,7 @@
     },
     "autoload" : {
         "psr-0" : {
-            "FCM-Unicamp\\ThemeBundle" : ""
+            "": "src/"
         }
     },
     "target-dir" : "FCMUnicamp/ThemeBundle"
