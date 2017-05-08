@@ -1,0 +1,25 @@
+body.login-form {
+
+    height: 100%;
+}
+
+.login-form .form .card{
+    border: 1px solid #fff;
+    background: rgba(255,255,255, .8);
+}
+
+.login-form .form .input-group{
+    margin-bottom: 15px;
+}
+
+.login-form .input-group-addon {
+    background: #fff;
+}
+
+.login-form .card img {
+    z-index: 1
+}
+
+.login-form .input-group span {
+    padding: 0 5px;
+}

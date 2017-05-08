@@ -1,0 +1,113 @@
+html body {
+    font-family: "Roboto", sans-serif;
+}
+
+body a:hover {
+    text-decoration: none;
+}
+
+body h1 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+body h2, body h3{
+    margin-top: 10px;
+}
+
+body h2 { font-size: 22px}
+body h3 { font-size: 18px}
+
+html,html body {
+    background: #f3f3f3;
+}
+
+html {
+    height: 100%;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #4C5765;
+    padding: 10px 0;
+    z-index: 10;
+}
+
+.footer .text {
+    color: #fff;
+}
+
+@media screen and (max-width: 769px) {
+    footer.footer {position: relative; }
+}
+
+
+
+
+#main {
+    padding-bottom: 110px;
+}
+
+.material-icons {
+    vertical-align: bottom;
+}
+
+
+
+.right {
+    float: right;
+    margin-left: 15px;
+}
+
+i { cursor: pointer;}
+
+
+
+/** Colection */
+.collection {
+    width: 100%;
+}
+.collection .collection-item {
+    background-color: #fff;
+    line-height: 1.5rem;
+    padding: 10px;
+    margin: 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.collection .collection-item {
+    font-weight: bold;
+}
+
+/** Alert **/
+.alert.alert-success {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.alert.alert-info {
+    background-color: #2196F3;
+    color: #fff;
+}
+
+.alert.alert-warning {
+    background-color: #FF9800;
+    color: #fff;
+}
+
+.alert.alert-danger {
+    background-color: #F44336;
+    color: #fff;
+}
+
+.form-inline .btn {margin: 0}
+
+.tag {
+    border: 1px solid #f0f0f0;
+    color: #777;
+    margin: 2px 2px 2px 0;
+    padding: 2px 5px;
+    font-size: 12px;
+}

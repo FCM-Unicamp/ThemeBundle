@@ -1,0 +1,14 @@
+.vich-file {
+    border: 1px solid #E0E0E0;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.vich-file i {
+    vertical-align: middle;
+}
+
+.vich-file .delete {
+    display: inline-block;
+    margin-left: 10px;
+}

@@ -1,0 +1,211 @@
+/** CARD **/
+.card {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.card {
+    background: #fff;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    background-clip: padding-box;
+}
+
+.card-action, .card-title {
+    padding: 15px;
+}
+
+.card .card-title {
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.card .card-title a i{
+    color: #fff;
+}
+
+.card .card-title a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+.card .card-image {
+    position: relative;
+    overflow: hidden;
+}
+.card .card-image img {
+    border-radius: 2px 2px 0 0;
+    background-clip: padding-box;
+    position: relative;
+}
+.card .card-image .card-title {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 16px;
+    color: #fff;
+}
+.card .card-content {
+    padding: 16px;
+    border-radius: 0 0 2px 2px;
+    background-clip: padding-box;
+    box-sizing: border-box;
+}
+.card .card-content p {
+    margin: 0;
+    color: inherit;
+}
+.card .card-content span.card-title {
+    line-height: 48px;
+}
+.card .card-action {
+    border-top: 1px solid rgba(160, 160, 160, 0.2);
+
+}
+
+.card .card-action a {
+    color: #01579B;
+    margin-right: 16px;
+    transition: color 0.3s ease;
+}
+.card .card-action a:hover {
+    color: #00B0FF;
+    text-decoration: none;
+}
+
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-floating) {
+    transition: color .3s ease;
+    text-transform: uppercase;
+}
+
+.card-default {
+    background: #fff;
+}
+
+/** CARD SOFT **/
+.card.soft {
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+.card.soft .card-header {
+    position: relative;
+    display: block;
+    padding: 26px 30px;
+    border-radius: 2px 2px 0 0;
+}
+
+.card.soft .card-header h2 {
+    margin: 0;
+    line-height: 100%;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.card.soft .card-header h2 small {
+    display: block;
+    margin-top: 8px;
+    color: #AEAEAE;
+    line-height: 160%;
+}
+
+.card.soft table td {
+    padding: 15px 15px 15px 30px;
+}
+
+.list-group .list-group-item {
+    border: 0;
+    margin: 0;
+}
+
+.event-date {
+    width: 80px;
+    text-align: center;
+    border-radius: 2px;
+    padding: 6px 5px;
+    margin-top: -3px;
+    position: relative;
+    color: #fff;
+}
+.bgm-green {
+    background-color: #4CAF50
+
+}
+
+.view-more {
+    display: block;
+    padding: 10px 10px 15px;
+    line-height: 100%;
+    font-size: 11px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    color: #777;
+    text-align: center;
+}
+
+.bgm-cyan {
+    background-color: #00BCD4!important;
+    color: #fff;
+}
+
+.bgm-orange {
+    background-color: #FF9800;
+    color: #fff;
+}
+
+.bgm-deeporange {
+    background-color: #FF5722;
+    color: #fff;
+}
+
+.bgm-bluegray {
+    background-color: #607D8B;
+    color:#fff;
+}
+
+.bgm-amber {
+    background-color: #FFC107;
+    color: #fff;
+}
+
+.bgm-lightblue {
+    background-color: #03A9F4;
+    color: #fff;
+}
+
+.bgm-gray {
+    background-color: #9E9E9E;
+    color: #fff;
+}
+
+/** Stats **/
+.visitors-stats {
+    margin: 15px -6px 15px;
+}
+
+.visitors-stats-item {
+    border: 1px solid #eee;
+    padding: 13px 17px 12px;
+    border-radius: 2px;
+}
+
+/** Badge **/
+.plantao .date {
+    font-weight: bold;
+}
+
+.card .card-header {
+    position: relative;
+    display: block;
+    padding: 26px 30px;
+    border-radius: 2px 2px 0 0;
+}
+
+.card .card-padding {
+    padding: 26px 30px;
+}
+
+
+.card-admin .progress {
+    margin-right: 15px;
+    background: #9E9E9E;
+}
