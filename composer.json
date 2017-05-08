@@ -15,12 +15,6 @@
     "keywords" : [
         "FCM Theme Bundle"
     ],
-    "license" : [
-        "MIT"
-    ],
-    "require" : {
-
-    },
     "autoload" : {
         "psr-0" : {
             "FCM-Unicamp\\ThemeBundle" : ""
