@@ -20,12 +20,4 @@
             "FCM-Unicamp\\ThemeBundle" : ""
         }
     },
-    "target-dir" : "FCMUnicamp/ThemeBundle",
-    "repositories" : [{
-    }],
-    "extra" : {
-        "branch-alias" : {
-            "dev-master": "1.0-dev"    
-        }
-    }
 }
