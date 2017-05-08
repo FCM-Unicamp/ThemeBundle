@@ -1,0 +1,37 @@
+{
+    "name" : "FCM-Unicamp/ThemeBundle",
+    "description" : "Default theme for FCM - Unicamp",
+    "type" : "symfony-bundle",
+    "authors" : [
+        {
+            "name" : "Newton da Silva",
+            "email" : "newtondasilva@gmail.com"
+        },
+        {
+            "name" : "João Mantovani",
+            "email" : "jpm.mantovani45@gmail.com"
+        },
+    ],
+    "keywords" : [
+        "FCM Theme Bundle"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+
+    },
+    "autoload" : {
+        "psr-0" : {
+            "FCM-Unicamp\\ThemeBundle" : ""
+        }
+    },
+    "target-dir" : "FCMUnicamp/ThemeBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "1.0alpha"
+        }
+    }
+}
