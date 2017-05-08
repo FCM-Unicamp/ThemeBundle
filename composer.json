@@ -1,5 +1,5 @@
 {
-    "name" : "FCM-Unicamp/ThemeBundle",
+    "name" : "fcm-unicamp/themebundle",
     "description" : "Default theme for FCM - Unicamp",
     "type" : "symfony-bundle",
     "authors" : [
